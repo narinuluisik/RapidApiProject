@@ -30,8 +30,6 @@ Dashboard ekranında aşağıdaki bilgilerin gerçek zamanlı olarak API üzerin
 ### Ana Dashboard Görünümü
 ![rapidapicase](https://github.com/user-attachments/assets/d8f9343a-6347-40bc-b80c-5a13c3692263)
 
-![Ekran görüntüsü 2025-05-25 192532](https://github.com/user-attachments/assets/9d1df4ed-106f-4917-aa81-8dc6d301c73e)
-
 ![Ekran görüntüsü 2025-05-25 192550](https://github.com/user-attachments/assets/1d9eaf4d-eb8d-4761-b387-c1875fdf4d48)
 
 
