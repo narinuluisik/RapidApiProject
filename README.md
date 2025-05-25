@@ -9,10 +9,10 @@ Dashboard ekranında aşağıdaki bilgilerin gerçek zamanlı olarak API üzerin
 - 💱 **Döviz Kurları**: Türk Lirasının USD, EUR ve GBP karşısındaki güncel değerleri
 - ⛽ **Akaryakıt Fiyatları**: Türkiye'de satılan benzin, motorin ve LPG fiyatları
 - 🌤️ **Hava Durumu**: Kullanıcının bulunduğu şehre ait güncel hava durumu bilgisi
-- ₿ **Kripto Para Bilgileri**: Bitcoin, Ethereum ve 3 farklı kripto paranın anlık fiyatları
+-   ₿  **Kripto Para Bilgileri**: Bitcoin, Ethereum ve 3 farklı kripto paranın anlık fiyatları
 - 📰 **Son Dakika Haberleri**: Globalden çekilen 5 haber başlığı 
 - 🍽️ **Günün Yemek Tarifi**: API üzerinden rastgele bir yemek tarifi
-- ⚽ **Futbol Skorları **: Canlı maç skorları veya geçmiş maç sonuçları
+- ⚽ **Futbol Skorları**: Canlı maç skorları veya geçmiş maç sonuçları
 
 ---
 
